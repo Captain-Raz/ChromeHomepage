@@ -63,7 +63,7 @@ ul {
   padding-top: 125px;
 }
 
-.DND, .Coding, .Gaming, .StCCC, .Library, .unrealCore {
+.lorem1, .lorem2, .lorem3, .lorem4, .lorem5, .lorem6 {
   column-count: 2;
   display: flex;
   width: 100%;
@@ -75,11 +75,11 @@ ul {
   align-content: center;
 }
 
-.StCCC, .Gaming, .Library {
+.lorem1, .lorem3, .lorem5 {
   margin: 0 0 0 50px;
 }
 
-.Coding, .DND, .unrealCore {
+.lorem2, .lorem4, .lorem6 {
   margin: 0 50px 0 0;
 }
 
@@ -87,38 +87,38 @@ ul {
   column-width: 115px;
 }
 
-.DND {
-  background-image: url(DND2.jpg);
+.lorem1 {
+  background-image: url();
   background-size: cover;
   color: #ffffff;
 }
 
-.Gaming {
-  background-image: url(gaming.jpg);
+.lorem2 {
+  background-image: url();
   background-size: cover;
   color: #ffffff;
 }
 
-.StCCC {
-  background-image: url(school.jpg);
+.lorem3 {
+  background-image: url();
   background-size: cover;
   color: #ffffff;
 }
 
-.Coding {
-  background-image: url(coding.jpeg);
+.lorem4 {
+  background-image: url();
   background-size: cover;
   color: #ffffff;
 }
 
-.Library {
-  background-image: url(library1.jpg);
+.lorem5 {
+  background-image: url();
   background-size: cover;
   color: #ffffff;
 }
 
-.unrealCore {
-  background-image: url(design1.png);
+.lorem6 {
+  background-image: url();
   background-size: cover;
   color: #ffffff;
 }
