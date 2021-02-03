@@ -5,8 +5,8 @@ I built this as a 'homepage' where all my important daily bookmarks can be found
   or by adding in an extension that manages my bookmarked tabs into groups for easy access.
 
 It is rather easy to insert your own bookmarked urls into the HTML file.
-# <li><a href="https://Your.URL.here" 
-                   target="_blank" rel="noreferrer noopener" style="color:#262626">Your URL Link name</li>
+# < li><a href="https://Your.URL.here" 
+                   target="_blank" rel="noreferrer noopener" style="color:#262626">Your URL Link name</li >
 This is a sample of where to insert your own URL, what color the link is displayed in, and what to call your link.
 
 If you need more or less in a particular section, then simply copy and paste more, or delete the entire <li></li> that you no longer require.
